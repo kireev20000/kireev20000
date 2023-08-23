@@ -9,7 +9,7 @@
 <a href="https://github.com/kireev20000?tab=repositories">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img>
 </a>
-
+<br>
 <br>
 
    Привет, я Python-разработчик специализирующийся на backend-разработке и анализе данных.  Люблю решать комплексные проблемы и изучать новые технологии.
