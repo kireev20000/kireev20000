@@ -1,10 +1,7 @@
 ### Обо мне:
    Привет, я Python-разработчик специализирующийся на backend-разработке и анализе данных.  Люблю решать комплексные проблемы и изучать новые технологии.
-Иногда ухожу вглубь и изучаю методологию DevOps для того чтобы автоматизировать рутинные задачи и расширить кругозор :heartpulse:
-
-
----
-### Контакты:
+Иногда ухожу вглубь и изучаю методологию DevOps для того чтобы автоматизировать рутинные задачи и расширить кругозор :heartpulse:.
+#### Контакты:
 <a href="https://t.me/kireev20000">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><img>
 </a>
@@ -36,6 +33,7 @@
 </div>  
 
 ---
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kireev20000&theme=discord_old_blurple"/>
 </p>
